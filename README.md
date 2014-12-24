@@ -1,0 +1,141 @@
+#Ten sermons preached on various important subjects. By George Whitefield, A.B. ; Carefully corrected and revised according to the best London edition. Ten sermons on the following subjects#
+
+##Whitefield, George, 1714-1770.##
+Ten sermons preached on various important subjects. By George Whitefield, A.B. ; Carefully corrected and revised according to the best London edition.
+Ten sermons on the following subjects
+Whitefield, George, 1714-1770.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N22/N22608.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N22/N22608.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2006-12__ __TCP__ *Assigned for keying and markup*
+1. __2007-03__ __AEL Data (Chennai)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2007-11__ __Alexis Jakobson__ *Sampled and proofread*
+1. __2007-11__ __Alexis Jakobson__ *Text and markup reviewed and edited*
+1. __2008-02__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+
+1. CONTENTS.
+
+1. THE PREFACE.
+
+#####Body#####
+
+1. SERMON I.
+
+1. SERMON II.
+
+1. SERMON III.
+
+1. SERMON IV.
+
+1. SERMON V.
+
+1. SERMON VI.
+
+1. SERMON VII.
+
+1. SERMON VIII.
+
+1. SERMON IX.
+
+1. SERMON X.
+
+#####Back#####
+SUBSCRIBERS.ABRAHAM PERKINS, Newburyport.Abel Greenleaf, Ditto.Anſtis Day, Ditto.Abel Boardman, Ditt
+**Types of content**
+
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 221 **ommitted** fragments! 
+ @__reason__ (221) : illegible (221)  •  @__resp__ (221) : #AELD (221)  •  @__extent__ (221) : 2 letters (24), 1 letter (127), 1 word (52), 4 letters (1), 1 span (10), 3 letters (4), 2 words (3)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin Extended-A|ſ|383|
+|General Punctuation|•—…|8226 8212 8230|
+|Geometric Shapes|◊▪|9674 9642|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|2||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|7| @__when__ (1) : 2008-09 (1)|
+|6.|__editorialDecl__|1||
+|7.|__extent__|2||
+|8.|__idno__|6| @__type__ (6) : DLPS (1), TCP (1), STC (1), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|9.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|10.|__label__|5||
+|11.|__langUsage__|1||
+|12.|__language__|1| @__ident__ (1) : eng (1)|
+|13.|__listPrefixDef__|1||
+|14.|__note__|5||
+|15.|__notesStmt__|2||
+|16.|__p__|11||
+|17.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|18.|__projectDesc__|1||
+|19.|__pubPlace__|2||
+|20.|__publicationStmt__|2||
+|21.|__publisher__|2||
+|22.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|23.|__seriesStmt__|1||
+|24.|__sourceDesc__|1||
+|25.|__term__|3||
+|26.|__textClass__|1||
+|27.|__title__|5||
+|28.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__bibl__|10||
+|2.|__closer__|1||
+|3.|__desc__|221||
+|4.|__div__|14| @__type__ (14) : title_page (1), table_of_contents (1), preface (1), sermon (10), list_of_subscribers (1)  •  @__n__ (10) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1)|
+|5.|__epigraph__|10||
+|6.|__g__|1151| @__ref__ (1151) : char:EOLhyphen (1088), char:punc (63)|
+|7.|__gap__|221| @__reason__ (221) : illegible (221)  •  @__resp__ (221) : #AELD (221)  •  @__extent__ (221) : 2 letters (24), 1 letter (127), 1 word (52), 4 letters (1), 1 span (10), 3 letters (4), 2 words (3)|
+|8.|__head__|23||
+|9.|__hi__|356||
+|10.|__item__|125||
+|11.|__label__|10||
+|12.|__list__|6||
+|13.|__note__|1| @__n__ (1) : * (1)  •  @__place__ (1) : bottom (1)|
+|14.|__p__|347||
+|15.|__pb__|217| @__facs__ (217) : tcp:029886_0000_0FE2BE1244D9D628 (1), tcp:029886_0001_0FE2BE170554DE40 (1), tcp:029886_0002_0FE2BE1C91A05FF8 (1), tcp:029886_0003_0FE2BE226F8826E0 (1), tcp:029886_0004_0FE2BE275F6C7EA0 (1), tcp:029886_0005_0FE2BE2D5EF08070 (1), tcp:029886_0006_0FE2BE32E15AAA70 (1), tcp:029886_0007_0FE2BE36F11239B0 (1), tcp:029886_0008_0FE2BE3D7AAFC9D8 (1), tcp:029886_0009_0FE2BE4375BCBE90 (1), tcp:029886_0010_0FE2BEE238FF5AB8 (1), tcp:029886_0011_0FE2BE488F02C9E8 (1), tcp:029886_0012_0FE2BEECB98DE6E8 (1), tcp:029886_0013_0FE2BE544D032188 (1), tcp:029886_0014_0FE2BEF18AEEB8A8 (1), tcp:029886_0015_0FE2BE58F07D8F18 (1), tcp:029886_0016_0FE2BEFD77668A78 (1), tcp:029886_0017_0FE2BE61D9FE76F8 (1), tcp:029886_0018_0FE2BF021BF93D58 (1), tcp:029886_0019_0FE2BE668B49C928 (1), tcp:029886_0020_0FE2BF09F8A78E28 (1), tcp:029886_0021_0FE2BE6EA255E6D8 (1), tcp:029886_0022_0FE2BF0F6E7AF8B8 (1), tcp:029886_0023_0FE2BE7587EAC778 (1), tcp:029886_0024_0FE2BF175E169360 (1), tcp:029886_0025_0FE2BE7DA31FD240 (1), tcp:029886_0026_0FE2BF1CF0B930B8 (1), tcp:029886_0027_0FE2BE82506A6098 (1), tcp:029886_0028_0FE2BF25A93DD0C8 (1), tcp:029886_0029_0FE2BE8A938596D0 (1), tcp:029886_0030_0FE2BF2A65625000 (1), tcp:029886_0031_0FE2BE8FC1551850 (1), tcp:029886_0032_0FE2BF3356574CA0 (1), tcp:029886_0033_0FE2BF38D8942128 (1), tcp:029886_0034_0FE2BE968FD12DD8 (1), tcp:029886_0035_0FE2BF4111804150 (1), tcp:029886_0036_0FE2BE9D28B7DBD0 (1), tcp:029886_0037_0FE2BF45DA73FCE8 (1), tcp:029886_0038_0FE2BEA4DF598340 (1), tcp:029886_0039_0FE2BF4D5D7755C0 (1), tcp:029886_0040_0FE2BEA9A4522438 (1), tcp:029886_0041_0FE2BF52F087EB70 (1), tcp:029886_0042_0FE2BEB368EA74F0 (1), tcp:029886_0043_0FE2BF5BB0AA05E8 (1), tcp:029886_0044_0FE2BEB84453C9C0 (1), tcp:029886_0045_0FE2BF6067D40F68 (1), tcp:029886_0046_0FE2BEBE5F9A4560 (1), tcp:029886_0047_0FE2BF69124287B0 (1), tcp:029886_0048_0FE2BEC3E505DFF0 (1), tcp:029886_0049_0FE2BF6E71F84838 (1), tcp:029886_0050_0FE2BECE3041D9F0 (1), tcp:029886_0051_0FE2BF754DD682D0 (1), tcp:029886_0052_0FE2BED2D8749EC0 (1), tcp:029886_0053_0FE2BF7AA63DA858 (1), tcp:029886_0054_0FE2BEDD97339728 (1), tcp:029886_0055_0FE2BF825331ECD8 (1), tcp:029886_0056_0FE2BF86F35E5C30 (1), tcp:029886_0057_0FE2C021353D2E50 (1), tcp:029886_0058_0FE2BF8E42AAB188 (1), tcp:029886_0059_0FE2C026F6B98968 (1), tcp:029886_0060_0FE2BF939F5A94B0 (1), tcp:029886_0061_0FE2C02C574AD078 (1), tcp:029886_0062_0FE2BF9B4A7BC6E0 (1), tcp:029886_0063_0FE2C031D8018200 (1), tcp:029886_0064_0FE2BF9FF3500C20 (1), tcp:029886_0065_0FE2C0372B088678 (1), tcp:029886_0066_0FE2BFA7971341D0 (1), tcp:029886_0067_0FE2C03DD9686CD0 (1), tcp:029886_0068_0FE2BFACF1E095D0 (1), tcp:029886_0069_0FE2C0429D9C4E98 (1), tcp:029886_0070_0FE2BFB4024CBAD8 (1), tcp:029886_0071_0FE2C0499CB49260 (1), tcp:029886_0072_0FE2BFB8A0062E60 (1), tcp:029886_0073_0FE2C04E4221E9E8 (1), tcp:029886_0074_0FE2BFC0B86ADB18 (1), tcp:029886_0075_0FE2C055030529B0 (1), tcp:029886_0076_0FE2C05BC1D807D8 (1), tcp:029886_0077_0FE2BFC55B74F9F8 (1), tcp:029886_0078_0FE2C06290082FE0 (1), tcp:029886_0079_0FE2BFCD0E0BF668 (1), tcp:029886_0080_0FE2C0672E33D9B0 (1), tcp:029886_0081_0FE2BFD273BDFCA8 (1), tcp:029886_0082_0FE2C06FF262D1A8 (1), tcp:029886_0083_0FE2BFDB81FB04E0 (1), tcp:029886_0084_0FE2C07512C9CC98 (1), tcp:029886_0085_0FE2BFE033E59D30 (1), tcp:029886_0086_0FE2C07DCA634958 (1), tcp:029886_0087_0FE2BFE95C9D4588 (1), tcp:029886_0088_0FE2C082A1FFDF68 (1), tcp:029886_0089_0FE2BFEE12DE6608 (1), tcp:029886_0090_0FE2C089DAA3FA10 (1), tcp:029886_0091_0FE2BFF676E60808 (1), tcp:029886_0092_0FE2C08E801E6158 (1), tcp:029886_0093_0FE2BFFB68044EF8 (1), tcp:029886_0094_0FE2A1A28ED9CDB8 (1), tcp:029886_0095_0FE2A19F310FE020 (1), tcp:029886_0096_0FE2C09495BD9128 (1), tcp:029886_0097_0FE2C00A104D37C0 (1), tcp:029886_0098_0FE2C099E6B52248 (1), tcp:029886_0099_0FE2C01128A12B38 (1), tcp:029886_0100_0FE2C0A146FBBC28 (1), tcp:029886_0101_0FE2C015C8571DD8 (1), tcp:029886_0102_0FE2C0A5E2354360 (1), tcp:029886_0103_0FE2C01BDC5DA860 (1), tcp:029886_0104_0FE2C0ADD25F3388 (1), tcp:029886_0105_0FE2C0B2765E1B28 (1), tcp:029886_0106_0FE2C14D02460800 (1), tcp:029886_0107_0FE2C0BA151DEA10 (1), tcp:029886_0108_0FE2C153276ECD88 (1), tcp:029886_0109_0FE2C0BF63A0E920 (1), tcp:029886_0110_0FE2C1594D735048 (1), tcp:029886_0111_0FE2C0C71D5425F0 (1), tcp:029886_0112_0FE2C15EAD530318 (1), tcp:029886_0113_0FE2C0CBF6FE6268 (1), tcp:029886_0114_0FE2C166448472C8 (1), tcp:029886_0115_0FE2C0D2837A9060 (1), tcp:029886_0116_0FE2C16AEA96C178 (1), tcp:029886_0117_0FE2C0D7D73FEF50 (1), tcp:029886_0118_0FE2C00458027FE8 (1), tcp:029886_0119_0FE2C0DEE10BB780 (1), tcp:029886_0120_0FE2C173D6D84058 (1), tcp:029886_0121_0FE2C0E4594786F0 (1), tcp:029886_0122_0FE2C178A5796628 (1), tcp:029886_0123_0FE2C0EC0E160888 (1), tcp:029886_0124_0FE2C17FC17565D8 (1), tcp:029886_0125_0FE2C0F236D06110 (1), tcp:029886_0126_0FE2C1845D3153E0 (1), tcp:029886_0127_0FE2C0F8955A3B78 (1), tcp:029886_0128_0FE2C18B746C0370 (1), tcp:029886_0129_0FE2C0FE80B66F20 (1), tcp:029886_0130_0FE2C19024A40528 (1), tcp:029886_0131_0FE2C104037BEC08 (1), tcp:029886_0132_0FE2C1975134A5D8 (1), tcp:029886_0133_0FE2C109FA92DB98 (1), tcp:029886_0134_0FE2C19BEE912480 (1), tcp:029886_0135_0FE2C110168A5708 (1), tcp:029886_0136_0FE2C1A2526409D0 (1), tcp:029886_0137_0FE2C11584E301D0 (1), tcp:029886_0138_0FE2C1A9117C0360 (1), tcp:029886_0139_0FE2C11DD2FC8CC8 (1), tcp:029886_0140_0FE2C1AE9C288EA0 (1), tcp:029886_0141_0FE2C1228EA17BC0 (1), tcp:029886_0142_0FE2C1B352C13948 (1), tcp:029886_0143_0FE2C12933B76140 (1), tcp:029886_0144_0FE2C1BA19DDEED8 (1), tcp:029886_0145_0FE2C12EC8879800 (1), tcp:029886_0146_0FE2C1BFD8168100 (1), tcp:029886_0147_0FE2C136069A0488 (1), tcp:029886_0148_0FE2C1C8667640A0 (1), tcp:029886_0149_0FE2C13AD7275670 (1), tcp:029886_0150_0FE2C1CD087ABEF0 (1), tcp:029886_0151_0FE2C1410ADDC8B8 (1), tcp:029886_0152_0FE2C1D4574F54B8 (1), tcp:029886_0153_0FE2C146C48086E0 (1), tcp:029886_0154_0FE34721BA716148 (1), tcp:029886_0155_0FE2C1E0645F2458 (1), tcp:029886_0156_0FE2C271EA4F7B60 (1), tcp:029886_0157_0FE2C1E51818C320 (1), tcp:029886_0158_0FE2C27A3A5113C0 (1), tcp:029886_0159_0FE2C1E9DD61F900 (1), tcp:029886_0160_0FE2C27EF8352518 (1), tcp:029886_0161_0FE2C1EE944C0F68 (1), tcp:029886_0162_0FE2C2863905AFD0 (1), tcp:029886_0163_0FE2C1F6D3450390 (1), tcp:029886_0164_0FE2C28AF44D9660 (1), tcp:029886_0165_0FE2C1FBB3F8A448 (1), tcp:029886_0166_0FE2C29271F77930 (1), tcp:029886_0167_0FE2C2022D4D80F0 (1), tcp:029886_0168_0FE2C297C8A954B8 (1), tcp:029886_0169_0FE2C206DC6E7910 (1), tcp:029886_0170_0FE2C29F91251578 (1), tcp:029886_0171_0FE2C20EACAF50D8 (1), tcp:029886_0172_0FE2C2A441F25E08 (1), tcp:029886_0173_0FE2C21385786400 (1), tcp:029886_0174_0FE2C2AD4C6D3E70 (1), tcp:029886_0175_0FE2C21B12E81A68 (1), tcp:029886_0176_0FE2C2B213179A90 (1), tcp:029886_0177_0FE2C21FB1AF0E20 (1), tcp:029886_0178_0FE2C2621250DBA8 (1), tcp:029886_0179_0FE2C22723A7E630 (1), tcp:029886_0180_0FE2C2BDA186BBB0 (1), tcp:029886_0181_0FE2C22BC6D41BA0 (1), tcp:029886_0182_0FE2C2C535F727B0 (1), tcp:029886_0183_0FE2C234919F98C0 (1), tcp:029886_0184_0FE2C2C9D692D6D0 (1), tcp:029886_0185_0FE2C239300073C0 (1), tcp:029886_0186_0FE2C2D078232F70 (1), tcp:029886_0187_0FE2C24015396538 (1), tcp:029886_0188_0FE2C2D55D881EA0 (1), tcp:029886_0189_0FE2C244D01AF878 (1), tcp:029886_0190_0FE2C2DB9543B5D8 (1), tcp:029886_0191_0FE2C24B287DD458 (1), tcp:029886_0192_0FE2C2E0618C5930 (1), tcp:029886_0193_0FE2C24FCCBD2390 (1), tcp:029886_0194_0FE2C2E7AE693DA8 (1), tcp:029886_0195_0FE2C255405A9B50 (1), tcp:029886_0196_0FE2C2EC4E562E68 (1), tcp:029886_0197_0FE2C25A9B7D1430 (1), tcp:029886_0198_0FE2C2F253E9D2F8 (1), tcp:029886_0199_0FE2C1D9B064E2B0 (1), tcp:029886_0200_0FE2C2F7C317B7B0 (1), tcp:029886_0201_0FE2C26760157C58 (1), tcp:029886_0202_0FE2C2FF90AB6520 (1), tcp:029886_0203_0FE2C26C830C9808 (1), tcp:029886_0204_0FE2C3042DF07B98 (1), tcp:029886_0205_0FE2C34906831188 (1), tcp:029886_0206_0FE2C328462C8D18 (1), tcp:029886_0207_0FE2C30B9A2C1A90 (1), tcp:029886_0208_0FE2C32C980C6AF8 (1), tcp:029886_0209_0FE2C311901EB968 (1), tcp:029886_0210_0FE2C3322AC5F768 (1), tcp:029886_0211_0FE2C31690C22170 (1), tcp:029886_0212_0FE2C339D20E9AB8 (1), tcp:029886_0213_0FE2C33F34FBC820 (1), tcp:029886_0214_0FE2C31C0FDE7060 (1), tcp:029886_0215_0FE2C3442CADA710 (1), tcp:029886_0216_0FE2C322E7872400 (1)  •  @__n__ (206) : iv (1), v (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (1), 145 (1), 146 (1), 147 (1), 148 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (1), 174 (1), 175 (1), 176 (1), 177 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 185 (1), 186 (1), 187 (1), 188 (1), 189 (1), 190 (1), 191 (1), 192 (1), 193 (1), 194 (1), 195 (1), 196 (1), 197 (1), 198 (1), 199 (1), 200 (1), 201 (1), 202 (1), 203 (1), 204 (1), 205 (1), 206 (1), 207 (1), 208 (1), 209 (1), 210 (1), 211 (1), 212 (1), 213 (1), 214 (1), 215 (1), 216 (1), 217 (1)|
+|16.|__q__|24||
+|17.|__signed__|1||
+|18.|__trailer__|1||
